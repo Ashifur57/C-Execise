@@ -1,0 +1,7 @@
+D:\C#\Entity Framework\ZooApp\ZooApp.Models\obj\Debug\net4.8\ZooApp.Models.csproj.AssemblyReference.cache
+D:\C#\Entity Framework\ZooApp\ZooApp.Models\obj\Debug\net4.8\ZooApp.Models.Migrations.202202191315465_InitialCreate.resources
+D:\C#\Entity Framework\ZooApp\ZooApp.Models\obj\Debug\net4.8\ZooApp.Models.csproj.GenerateResource.cache
+D:\C#\Entity Framework\ZooApp\ZooApp.Models\obj\Debug\net4.8\ZooApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Entity Framework\ZooApp\ZooApp.Models\obj\Debug\net4.8\ZooApp.Models.AssemblyInfoInputs.cache
+D:\C#\Entity Framework\ZooApp\ZooApp.Models\obj\Debug\net4.8\ZooApp.Models.AssemblyInfo.cs
+D:\C#\Entity Framework\ZooApp\ZooApp.Models\obj\Debug\net4.8\ZooApp.Models.csproj.CoreCompileInputs.cache
